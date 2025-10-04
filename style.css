@@ -1,0 +1,13 @@
+#home{
+     background-image: linear-gradient(rgba(0, 0, 0, 0.169),rgba(0, 0, 0, 0.176),rgba(0, 0, 0, 0.258)),url("https://www.shutterstock.com/image-photo/chefs-uniforms-on-white-background-260nw-2444158901.jpg");
+     height: 80vh;
+     margin-top: 0%;
+     background-repeat: no-repeat;
+     background-size: cover;
+     color: white;
+     text-align: center;
+     font-family: sans-serif;
+}
+#home h1{
+    padding-top: 10%;
+}
