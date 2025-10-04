@@ -1,0 +1,16 @@
+#about{
+    display: flex;
+    border-radius: 5%;
+    background-color: black;
+    color: white;
+}
+.text{
+    width: 50vw;
+    font-family: sans-serif;
+    float: left;
+}
+#about img{
+    background-color:black ;
+    border-radius: 25%;
+    padding: 1%;
+}
