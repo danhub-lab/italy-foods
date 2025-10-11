@@ -1,3 +1,4 @@
+
 #home{
      background-image: linear-gradient(rgba(0, 0, 0, 0.169),rgba(0, 0, 0, 0.176),rgba(0, 0, 0, 0.258)),url("https://www.shutterstock.com/image-photo/chefs-uniforms-on-white-background-260nw-2444158901.jpg");
      height: 80vh;
@@ -10,4 +11,17 @@
 }
 #home h1{
     padding-top: 10%;
+#nav ul{
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    text-transform: capitalize;
+    background-color: rgb(157, 183, 166);
+    font-family:sans-serif;
+    justify-content: space-around;
+}
+#nav a{
+    text-decoration: none;
+    color: rgb(180, 120, 120);
+    padding: 2%;
 }
