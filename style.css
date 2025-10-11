@@ -14,3 +14,33 @@
     border-radius: 25%;
     padding: 1%;
 }
+#courses{
+    width: 100%;
+    height: 130%;
+    object-fit: cover;
+    border-radius: 1%;
+    display: flex;
+    background-color: black;
+    color: #fff;
+}
+#courses h3{
+    margin-top: 10px;
+    font-size: 1.1cm;
+}
+#courselist{
+flex-wrap: wrap;
+justify-content: center;
+gap: 20px;
+margin-top: 20px;
+}
+.courses{
+    border-radius: 1%;
+    border: 1px solid  #ddd;
+    padding: 10px;
+    text-align: center;
+    background-color: black;
+    color: #fff;
+}
+header{
+ font: size 1.1cm;   
+}
