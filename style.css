@@ -12,3 +12,35 @@
     color: rgb(180, 120, 120);
     padding: 2%;
 }
+#testimonials img{
+    width:250px;
+    height: auto;
+    align-items: center;
+    border-radius: 40%;
+    text-decoration: none;
+    
+    
+}
+.two{
+    width: 30vw;
+    color: black;
+    
+}
+.three{
+    width:30vw ;
+    color: black;
+    
+}
+#testimonials{
+    display: flex;
+    border-radius: 5%;
+    text-decoration: none;
+    
+}
+body {
+    background-color: rgb(207, 207, 224);
+    
+}
+.text{
+    text-decoration: none;
+}
