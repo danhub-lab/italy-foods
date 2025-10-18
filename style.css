@@ -3,44 +3,52 @@
     justify-content: center;
     list-style: none;
     text-transform: capitalize;
-    background-color: rgb(157, 183, 166);
+    background-color: rgb(0, 0, 0);
     font-family:sans-serif;
     justify-content: space-around;
+    color: aliceblue;
 }
 #nav a{
     text-decoration: none;
-    color: rgb(180, 120, 120);
+    color: white;
     padding: 2%;
 }
 #testimonials img{
     width:250px;
     height: auto;
     align-items: center;
-    border-radius: 40%;
-    text-decoration: none;
-    
-    
+    border-radius: 40%; 
+    justify-content: space-between;
+}
+.one{
+    width: 30vw;
+    color: rgb(255, 255, 255);
+    border: rgb(255, 255, 255) 1px solid;
+    background-color: rgb(0, 0, 0);
 }
 .two{
     width: 30vw;
-    color: black;
-    
+    color:white;
+    background-color: black;
+     border: rgb(255, 255, 255) 1px solid;
+
+
 }
 .three{
     width:30vw ;
-    color: black;
-    
+    color:white;
+    background-color:black;
+     border: rgb(234, 234, 234) 1px solid;
 }
 #testimonials{
-    display: flex;
-    border-radius: 5%;
-    text-decoration: none;
-    
+    display:flex;
+    border-radius: 5%; 
+    border: rgb(0, 0, 0) 1px solid; 
+    justify-content: space-between;
 }
 body {
-    background-color: rgb(207, 207, 224);
-    
+    background-color: rgb(159, 159, 177);
 }
-.text{
+.text body{
     text-decoration: none;
-}
+}    
