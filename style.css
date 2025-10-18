@@ -3,6 +3,7 @@
     justify-content: center;
     color: blue;
 }
+
 #about{
     display: flex;
     border-radius: 5%;
@@ -51,7 +52,6 @@
 header{
  font: size 1.1cm;
  } 
-
 #home{
      background-image: linear-gradient(rgba(0, 0, 0, 0.169),rgba(0, 0, 0, 0.176),rgba(0, 0, 0, 0.258)),url("https://www.shutterstock.com/image-photo/chefs-uniforms-on-white-background-260nw-2444158901.jpg");
      height: 80vh;
@@ -64,6 +64,17 @@ header{
 }
 #home h1{
     padding-top: 10%;
+}
+
+
+#footer{
+  text-align: center; 
+  background-color:brown;
+  font-family: sans-serif;
+  background-color: rgb(159, 240, 159);
+  color: black;
+  padding: 2%;
+  margin-top: 2%;
 }
 #nav ul{
     display: flex;
@@ -78,6 +89,7 @@ header{
     text-decoration: none;
     color: rgb(180, 120, 120);
     padding: 2%;
+
 }
 .contact {
   background-color: #151414e5;
@@ -114,4 +126,5 @@ header{
     color: #fff;
     border: #151414e5;
     border-radius: 2%;
+
 }
